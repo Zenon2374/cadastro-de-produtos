@@ -1,5 +1,4 @@
 // Definindo uma lista
-// Definindo uma lista
 let numeros = [2,4,6,8,10]
 
 // Percorrendo a lista
