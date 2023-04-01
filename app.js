@@ -9,3 +9,4 @@ for(let i = 0; i < numeros.length; i++){
    console.log(numero[i] + "é um número ímpar")
   }
 }
+//Comentario de texto
